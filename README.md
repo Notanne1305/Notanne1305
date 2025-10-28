@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Jonathan G. Sindo 👋</h1>
 
-<!--
-**Notanne1305/Notanne1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>💻 Computer Science Student | 🎨 Design Guy</b><br>
+  <b>🌱 Always learning, building, and designing cool things</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+- 👨‍💻 I’m a passionate **Computer Science student** who loves mixing **creativity with technology**  
+- 🌍 Based in **Davao City, Philippines**  
+- 🎯 Interested in **UI/UX design, databases, and full-stack web development**  
+- 🧩 Currently improving my **SQL, PHP, and JavaScript** skills  
+
+---
+
+### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,figma,vscode,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathansindo&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansindo&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:j.sindo.545117@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Fun Fact
+> "Every line of code is a step closer to who I want to be."
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonathansindo&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
