@@ -34,8 +34,7 @@
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=j.sindo.545117@umindanao.edu.ph" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-  <a href="https://www.linkedin.com/in/jonathansindo/](https://www.linkedin.com/in/jonathan-sindo-4a8805298/"> 
+<a href="https://www.linkedin.com/in/jonathan-sindo-4a8805298/">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="https://jonathansindo.github.io/">
