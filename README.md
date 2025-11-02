@@ -9,7 +9,7 @@
 
 ### ✨ About Me
 - 👨‍💻 I’m a passionate **Computer Science student** who loves mixing **creativity with technology**  
-- 🌍 Based in **Davao City, Philippines**  
+- 🌍 Based in **Davao City, Davao Del Sur, Philippines**  
 - 🎯 Interested in **UI/UX design, databases, and full-stack web development**  
 - 🧩 Currently improving my **SQL, PHP, and JavaScript** skills  
 
