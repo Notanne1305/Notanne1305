@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/jonathan-sindo-4a8805298/">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://jonathansindo.github.io/">
+  <a href="[https://jonathansindo.github.io/](https://sindo-portfolio.vercel.app/)">
   <img src="https://img.shields.io/badge/Portfolio-%23FF6F00.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
